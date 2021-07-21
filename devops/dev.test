@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("hello");
+System.out.println("hello dev.java");
 }
 }
 Developers and testers coordinate and develop the applicaton together
