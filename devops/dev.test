@@ -1,0 +1,8 @@
+class Hello
+{
+public static void main(String args[])
+{
+System.out.println("hello");
+}
+}
+Developers and testers coordinate and develop the applicaton together
